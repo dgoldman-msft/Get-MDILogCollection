@@ -40,7 +40,7 @@
                 Will collect all of the Defender for Identity logs and compress them to a zip file for review as well as save logging to a custom save location
 
         .NOTES
-            None
+            https://docs.microsoft.com/en-us/defender-for-identity/troubleshooting-using-logs
     #>
 
     [CmdletBinding()]
